@@ -1,6 +1,6 @@
-# iot_switch
+# IOT Switch
 
-A new Flutter project.
+Introducing IOT SWITCH, your gateway to seamlessly connecting IoT switches to the world of Wi-Fi for intuitive and convenient control. With IOT SWITCH, the complex task of integrating IoT devices with your network becomes a breeze. Effortlessly link your IoT switches to Wi-Fi, unlocking a realm of possibilities for remote management and automation. This streamlined solution simplifies the process of configuring and making your IoT switches operational, ensuring a hassle-free and user-friendly experience. IOT SWITCH is designed to bridge the gap between your IoT devices and the connectivity they need, providing a reliable and straightforward method to enhance your smart home or industrial setup. Experience the power of connectivity with IOT SWITCH and transform the way you interact with your IoT-enabled switches. Welcome to a world where control is at your fingertips, thanks to IOT SWITCH.
 
 ## Getting Started
 
